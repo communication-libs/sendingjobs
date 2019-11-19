@@ -1,0 +1,26 @@
+{
+  "name": "communication_sendingjobslib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with jobs for Sending",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/communication-libs/sendingjobs.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "communication",
+    "sending",
+    "jobs",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/communication-libs/sendingjobs/issues"
+  },
+  "homepage": "https://github.com/communication-libs/sendingjobs#readme"
+}
