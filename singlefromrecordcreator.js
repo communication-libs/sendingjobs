@@ -61,7 +61,6 @@ function createSingleMessageFromRecordSender (execlib, mylib) {
     this.chooseSenderLib();
   };
   SingleMessageFromRecordSender.prototype.chooseSenderLib = function () {
-    var libcnt;
     if (!this.okToProceed()) {
       return;
     }
